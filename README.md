@@ -16,4 +16,4 @@ I have only tested it with dotnet razor page application generation, but I am su
 ## How to use
 - Compile the code (after creating a directory my-ai and changing ito it). Use dotnet build.
 - To run simply run dotnet run.
-- For help just type help and enter. (However the first screen will give you all the available commands)
+- For help just type help and enter. (However the first screen will give you all the available commands).

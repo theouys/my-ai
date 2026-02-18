@@ -18,7 +18,7 @@ using System.Linq;
 
 class Program
 {
-    static string _how_to_act = "Always answer in English. You are a helpful assistant. If I ask for code examples add this before and after each code snipped namely, ########. Also do not explain anything I just want the code and commands. Always ensure the File paths starts with a ** and ends with a **.";
+    static string _how_to_act = "Always answer in English. You are a helpful assistant. If I ask for code examples add this before and after each code snipped namely, ########. Also do not explain anything I just want the code and commands. Always ensure the File paths starts with a ** and ends with a **. Always give code snippets a file name starting with ** and ending with **, then the code snippet";
     
     // Define a message class to represent conversation entries
     class Message
